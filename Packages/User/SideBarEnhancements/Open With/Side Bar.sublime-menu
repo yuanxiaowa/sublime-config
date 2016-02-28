@@ -43,7 +43,7 @@
 				"command": "side_bar_files_open_with",
 				"args": {
 									"paths": [],
-									"application": "C:\\Documents and Settings\\tito\\local\\Datos de programa\\Google\\Chrome\\Application\\chrome.exe",
+									"application": "C:\\Users\\YXC\\AppData\\Local\\Google\\Chrome\\Application\\chrome.exe",
 									"extensions":".*", //any file with extension
 									"args":[]
 						},
