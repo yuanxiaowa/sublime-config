@@ -5,11 +5,13 @@
 	],
 	"installed_packages":
 	[
+		"Babel",
 		"BracketHighlighter",
 		"DocBlockr",
 		"Emmet",
 		"Git",
 		"HTML-CSS-JS Prettify",
+		"Jade",
 		"Markdown Preview",
 		"MarkdownEditing",
 		"Package Control",
